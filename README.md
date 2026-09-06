@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏎️ F1 Neural Predictor
 
 Painel interativo em Python que estima a probabilidade de vitória dos pilotos de
@@ -82,3 +83,6 @@ git branch -M main
 git remote add origin https://github.com/SEU-USUARIO/f1-neural-predictor.git
 git push -u origin main
 ```
+=======
+# f1-neural-predictor
+>>>>>>> 3cdd4bb5f6a84a9190c53a6766e8415923b43d3c
