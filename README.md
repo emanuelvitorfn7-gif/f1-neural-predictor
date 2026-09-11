@@ -30,7 +30,6 @@ O navegador normalmente abrirá em `http://localhost:8501`.
 
 ## Tecnologias
 
-- Python 3.11+
 - OpenF1
 - Pandas e NumPy
 - Scikit-learn
