@@ -72,14 +72,7 @@ ou recomendação de apostas.
 - Comparar previsões antigas com os resultados reais.
 - Adicionar testes automatizados com respostas simuladas da API.
 
-## Publicar no GitHub
 
-```powershell
-git init
-git add .
-git commit -m "Projeto inicial F1 Neural Predictor"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/f1-neural-predictor.git
 git push -u origin main
 ```
 =======
