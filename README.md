@@ -69,12 +69,6 @@ ou recomendação de apostas.
 
 - Incluir resultado da classificação e características do circuito.
 - Salvar o modelo treinado para reutilização.
-- Comparar previsões antigas com os resultados reais.
 - Adicionar testes automatizados com respostas simuladas da API.
 
 
-git push -u origin main
-```
-=======
-# f1-neural-predictor
->>>>>>> 3cdd4bb5f6a84a9190c53a6766e8415923b43d3c
