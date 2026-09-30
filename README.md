@@ -8,7 +8,6 @@ rede neural inicial.
 ## Recursos
 
 - Coleta de resultados da OpenF1 desde 2023.
-- Limpeza de duplicatas e valores ausentes com Pandas.
 - Padronização de nomes de pilotos e equipes.
 - Indicadores das últimas cinco corridas: posição, vitórias, pódios, top 5,
   abandono e média de pontos.
